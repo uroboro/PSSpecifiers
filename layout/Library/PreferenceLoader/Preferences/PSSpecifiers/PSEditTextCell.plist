@@ -1,0 +1,22 @@
+{
+    items =     (
+                {
+            PostNotification = "com.your.tweak/changed";
+            cell = PSEditTextCell;
+            defaults = "com.your.tweak";
+            icon = "/Applications/Preferences.app/icon-table@2x.png";
+            id = PSEditTextCell;
+            key = kPSEditTextCell;
+            label = PSEditTextCell;
+        },
+                {
+            PostNotification = "com.your.tweak/changed";
+            cell = PSEditTextCell;
+            defaults = "com.your.tweak";
+            id = PSEditTextCell2;
+            key = kPSEditTextCell2;
+            label = PSEditTextCell2;
+            suffix = "-abc";
+        }
+    );
+}

@@ -1,0 +1,10 @@
+{
+    items =     (
+                {
+            cell = PSTitleValueCell;
+            label = VEHICLE;
+            value = CAR;
+        }
+    );
+    title = "PSSpecifier Localization";
+}

@@ -1,0 +1,9 @@
+{
+    items =     (
+                {
+            cell = PSStaticTextCell;
+            icon = "/Applications/Preferences.app/icon-table@2x.png";
+            label = PSStaticTextCell;
+        }
+    );
+}

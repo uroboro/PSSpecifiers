@@ -1,0 +1,13 @@
+{
+    items =     (
+                {
+            PostNotification = "com.your.tweak/changed";
+            cell = PSGiantIconCell;
+            defaults = "com.your.tweak";
+            icon = "/Applications/Preferences.app/icon@2x~iphone.png";
+            id = PSGiantIconCell;
+            key = kPSGiantIconCell;
+            label = PSGiantIconCell;
+        }
+    );
+}

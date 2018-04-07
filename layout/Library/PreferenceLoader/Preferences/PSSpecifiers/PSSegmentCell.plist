@@ -1,0 +1,27 @@
+{
+    items =     (
+                {
+            PostNotification = "com.your.tweak/changed";
+            cell = PSSegmentCell;
+            defaults = "com.your.tweak";
+            icon = "/Applications/Preferences.app/icon-table@2x.png";
+            id = PSSegmentCell;
+            key = kPSSegmentCell;
+            label = PSSegmentCell;
+            validTitles =             (
+                Title1,
+                Title2,
+                Title3,
+                Title4,
+                Title5
+            );
+            validValues =             (
+                0,
+                2,
+                3,
+                4,
+                5
+            );
+        }
+    );
+}

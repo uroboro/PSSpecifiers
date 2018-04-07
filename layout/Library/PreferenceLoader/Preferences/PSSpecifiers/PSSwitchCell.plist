@@ -1,0 +1,31 @@
+{
+    items =     (
+                {
+            PostNotification = "com.your.tweak/changed";
+            cell = PSSwitchCell;
+            defaults = "com.your.tweak";
+            icon = "/Applications/Preferences.app/icon-table@2x.png";
+            id = PSSwitchCell;
+            key = kPSSwitchCell;
+            label = PSSwitchCell;
+        },
+                {
+            PostNotification = "com.your.tweak/changed";
+            cell = PSSwitchCell;
+            defaults = "com.your.tweak";
+            id = PSSwitchCell2;
+            key = kPSSwitchCell2;
+            label = PSSwitchCell2;
+            alternateColors = 1;
+        },
+                {
+            PostNotification = "com.your.tweak/changed";
+            cell = PSSwitchCell;
+            defaults = "com.your.tweak";
+            id = PSSwitchCell3;
+            key = kPSSwitchCell3;
+            label = PSSwitchCell3;
+            "control-loading" = 1;
+        }
+    );
+}

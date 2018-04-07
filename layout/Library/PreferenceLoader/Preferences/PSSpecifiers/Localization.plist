@@ -1,0 +1,15 @@
+{
+    items =     (
+                {
+            cell = PSLinkCell;
+            label = Subitem;
+        },
+                {
+            cell = PSEditTextCell;
+            footerAlignment = 1;
+            keyboard = dvorak;
+            label = FOOD;
+            placeholder = BREAD;
+        }
+    );
+}

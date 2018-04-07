@@ -1,0 +1,9 @@
+{
+    items =     (
+                {
+            cell = PSTitleValueCell;
+            icon = "/Applications/Preferences.app/icon-table@2x.png";
+            label = PSTitleValueCell;
+        }
+    );
+}

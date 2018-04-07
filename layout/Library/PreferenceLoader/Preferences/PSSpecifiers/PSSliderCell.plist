@@ -1,0 +1,37 @@
+{
+    items =     (
+                {
+            PostNotification = "com.your.tweak/changed";
+            cell = PSSliderCell;
+            defaults = "com.your.tweak";
+            icon = "/Applications/Preferences.app/icon-table@2x.png";
+            id = PSSliderCell;
+            key = kPSSliderCell;
+            label = PSSliderCell;
+            showValue = 0;
+            min = "0.1";
+            max = 4;
+            leftImage = "SpeakerMute.png";
+            rightImage = "SpeakerMax.png";
+        },
+                {
+            PostNotification = "com.your.tweak/changed";
+            cell = PSSliderCell;
+            defaults = "com.your.tweak";
+            id = PSSliderCell2;
+            key = kPSSliderCell2;
+            label = PSSliderCell2;
+            showValue = 1;
+        },
+                {
+            PostNotification = "com.your.tweak/changed";
+            cell = PSSliderCell;
+            defaults = "com.your.tweak";
+            id = PSSliderCell3;
+            key = kPSSliderCell3;
+            label = PSSliderCell3;
+            isSegmented = 1;
+            segmentCount = 3;
+        }
+    );
+}

@@ -1,0 +1,82 @@
+{
+    entry =     {
+        cell = PSLinkCell;
+        icon = "/Applications/Preferences.app/icon-table@2x.png";
+        label = "PSSpecifiers";
+    };
+    items =     (
+                {
+            cell = PSLinkCell;
+            label = AppList;
+        },
+                {
+            cell = PSLinkCell;
+            label = Localization;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSButtonCell;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSEditTextCell;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSEditTextViewCell;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSGiantCell;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSGiantIconCell;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSGroupCell;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSLinkCell;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSLinkListCell;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSListItemCell;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSTitleValueCell;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSSliderCell;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSSecureEditTextCell;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSSegmentCell;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSSpinnerCell;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSStaticTextCell;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSSwitchCell;
+        }
+    );
+    title = "PSSpecifier Demo";
+}

@@ -1,0 +1,36 @@
+{
+    items =     (
+                {
+            PostNotification = "com.your.tweak/changed";
+            cell = PSLinkListCell;
+            defaults = "com.your.tweak";
+            icon = "/Applications/Preferences.app/icon-table@2x.png";
+            id = PSLinkListCell;
+            key = kPSLinkListCell;
+            label = PSLinkListCell;
+            detail = PSListItemsController;
+            shortTitles =             (
+                T1,
+                T2,
+                T3,
+                T4,
+                T5
+            );
+            staticTextMessage = "Hi, I'm a footer!";
+            validTitles =             (
+                Title1,
+                Title2,
+                Title3,
+                Title4,
+                Title5
+            );
+            validValues =             (
+                0,
+                2,
+                3,
+                4,
+                5
+            );
+        }
+    );
+}

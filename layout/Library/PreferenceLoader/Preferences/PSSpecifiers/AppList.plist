@@ -1,0 +1,19 @@
+{
+    items =     (
+                {
+            cell = PSGroupCell;
+            icon = "/Applications/Preferences.app/icon-table@2x.png";
+            label = PSGroupCell;
+            footerText = "Select an app";
+        },
+                {
+			bundle = AppList;
+			cell = PSLinkCell;
+			icon = "/Applications/Preferences.app/icon.png";
+			isController = 1;
+			label = "Select App";
+			ALAllowsSelection = 1;
+			ALSingleEnabledMode = 1;
+		}
+    );
+}

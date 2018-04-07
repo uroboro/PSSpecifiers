@@ -1,0 +1,14 @@
+{
+    items =     (
+                {
+            PostNotification = "com.your.tweak/changed";
+            cell = PSEditTextViewCell;
+            defaults = "com.your.tweak";
+            icon = "/Applications/Preferences.app/icon-table@2x.png";
+            id = PSEditTextViewCell;
+            key = kPSEditTextViewCell;
+            label = PSEditTextViewCell;
+            height = 160;
+        }
+    );
+}

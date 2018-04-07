@@ -1,0 +1,28 @@
+{
+    items =     (
+                {
+            cell = PSGroupCell;
+            icon = "/Applications/Preferences.app/icon-table@2x.png";
+            label = PSGroupCell;
+            footerText = "Hi, I'm a footer!";
+        },
+                {
+            cell = PSGroupCell;
+            label = PSGroupCell0;
+            footerAlignment = 0;
+            footerText = "Hi, I'm a footer0!";
+        },
+                {
+            cell = PSGroupCell;
+            label = PSGroupCell1;
+            footerAlignment = 1;
+            footerText = "Hi, I'm a footer1!";
+        },
+                {
+            cell = PSGroupCell;
+            label = PSGroupCell2;
+            footerAlignment = 2;
+            footerText = "Hi, I'm a footer2!";
+        }
+    );
+}
