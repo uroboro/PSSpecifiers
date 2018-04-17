@@ -1,0 +1,19 @@
+{
+    items =     (
+                {
+            PostNotification = "com.your.tweak/changed";
+            cell = PSButtonCell;
+            confirmation =             {
+                cancelTitle = cancelTitle;
+                okTitle = okTitle;
+                prompt = prompt;
+                title = title;
+            };
+            defaults = "com.your.tweak";
+            id = PSButtonCell2;
+			isDestructive = 1;
+            key = kPSButtonCell2;
+            label = PSButtonCell2;
+        }
+    );
+}

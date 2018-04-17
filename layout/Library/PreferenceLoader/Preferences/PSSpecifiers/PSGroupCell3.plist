@@ -1,0 +1,10 @@
+{
+    items =     (
+                {
+            cell = PSGroupCell;
+            label = PSGroupCell3;
+            footerAlignment = 1;
+            footerText = "Hi, I'm a footer3!";
+        }
+    );
+}

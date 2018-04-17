@@ -19,7 +19,19 @@
         },
                 {
             cell = PSLinkCell;
+            label = PSButtonCell2;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSButtonCell3;
+        },
+                {
+            cell = PSLinkCell;
             label = PSEditTextCell;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSEditTextCell2;
         },
                 {
             cell = PSLinkCell;
@@ -39,6 +51,18 @@
         },
                 {
             cell = PSLinkCell;
+            label = PSGroupCell2;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSGroupCell3;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSGroupCell4;
+        },
+                {
+            cell = PSLinkCell;
             label = PSLinkCell;
         },
                 {
@@ -51,7 +75,11 @@
         },
                 {
             cell = PSLinkCell;
-            label = PSTitleValueCell;
+            label = PSSecureEditTextCell;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSSegmentCell;
         },
                 {
             cell = PSLinkCell;
@@ -59,11 +87,15 @@
         },
                 {
             cell = PSLinkCell;
-            label = PSSecureEditTextCell;
+            label = PSSliderCell2;
         },
                 {
             cell = PSLinkCell;
-            label = PSSegmentCell;
+            label = PSSliderCell3;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSSliderCell4;
         },
                 {
             cell = PSLinkCell;
@@ -76,6 +108,18 @@
                 {
             cell = PSLinkCell;
             label = PSSwitchCell;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSSwitchCell2;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSSwitchCell3;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSTitleValueCell;
         }
     );
     title = "PSSpecifier Demo";

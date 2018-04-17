@@ -19,4 +19,4 @@ This repository provides examples of PSSpecifiers of these classes:
 - PSStaticTextCell
 - PSSwitchCell
 
-Plus an example of Localization
+Plus an example of AppList and Localization using .lproj folders.

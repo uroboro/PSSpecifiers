@@ -8,20 +8,6 @@
             id = PSButtonCell;
             key = kPSButtonCell;
             label = PSButtonCell;
-        },
-                {
-            PostNotification = "com.your.tweak/changed";
-            cell = PSButtonCell;
-            confirmation =             {
-                cancelTitle = cancelTitle;
-                okTitle = OK;
-                prompt = prompt;
-                title = title;
-            };
-            defaults = "com.your.tweak";
-            id = PSButtonCell1;
-            key = kPSButtonCell1;
-            label = PSButtonCell1;
         }
     );
 }
