@@ -2,7 +2,6 @@
     items =     (
                 {
             cell = PSGroupCell;
-            icon = "/Applications/Preferences.app/icon-table@2x.png";
             label = PSGroupCell;
             footerText = "Hi, I'm a footer!";
         }

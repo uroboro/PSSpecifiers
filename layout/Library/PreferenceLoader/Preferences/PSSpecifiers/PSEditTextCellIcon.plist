@@ -4,10 +4,10 @@
             PostNotification = "com.your.tweak/changed";
             cell = PSEditTextCell;
             defaults = "com.your.tweak";
-            id = PSEditTextCell2;
-            key = kPSEditTextCell2;
-            label = PSEditTextCell2;
-            suffix = "-abc";
+            icon = "/Applications/Preferences.app/icon-table@2x.png";
+            id = PSEditTextCellIcon;
+            key = kPSEditTextCellIcon;
+            label = PSEditTextCellIcon;
         }
     );
 }

@@ -4,9 +4,9 @@
             PostNotification = "com.your.tweak/changed";
             cell = PSSwitchCell;
             defaults = "com.your.tweak";
-            id = PSSwitchCell3;
-            key = kPSSwitchCell3;
-            label = PSSwitchCell3;
+            id = PSSwitchCellLoading;
+            key = kPSSwitchCellLoading;
+            label = PSSwitchCellLoading;
             "control-loading" = 1;
         }
     );

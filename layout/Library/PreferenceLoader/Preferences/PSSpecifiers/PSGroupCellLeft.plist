@@ -2,9 +2,9 @@
     items =     (
                 {
             cell = PSGroupCell;
-            label = PSGroupCell2;
+            label = PSGroupCellLeft;
             footerAlignment = 0;
-            footerText = "Hi, I'm a footer2!";
+            footerText = "Hi, I'm a footer!";
         }
     );
 }

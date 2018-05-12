@@ -4,6 +4,7 @@
             PostNotification = "com.your.tweak/changed";
             cell = PSSliderCell;
             defaults = "com.your.tweak";
+            icon = "/Applications/Preferences.app/icon-table@2x.png";
             id = PSSliderCell;
             key = kPSSliderCell;
             label = PSSliderCell;

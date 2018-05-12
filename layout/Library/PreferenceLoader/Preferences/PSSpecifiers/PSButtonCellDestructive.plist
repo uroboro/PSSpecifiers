@@ -10,10 +10,10 @@
                 title = title;
             };
             defaults = "com.your.tweak";
-            id = PSButtonCell2;
+            id = PSButtonCellDestructive;
 			isDestructive = 1;
-            key = kPSButtonCell2;
-            label = PSButtonCell2;
+            key = kPSButtonCellDestructive;
+            label = PSButtonCellDestructive;
         }
     );
 }

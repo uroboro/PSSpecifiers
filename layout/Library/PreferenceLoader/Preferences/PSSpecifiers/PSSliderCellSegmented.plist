@@ -4,10 +4,11 @@
             PostNotification = "com.your.tweak/changed";
             cell = PSSliderCell;
             defaults = "com.your.tweak";
-            id = PSSliderCell2;
-            key = kPSSliderCell2;
-            label = PSSliderCell2;
-            showValue = 1;
+            id = PSSliderCellSegmented;
+            key = kPSSliderCellSegmented;
+            label = PSSliderCellSegmented;
+            isSegmented = 1;
+            segmentCount = 3;
         }
     );
 }

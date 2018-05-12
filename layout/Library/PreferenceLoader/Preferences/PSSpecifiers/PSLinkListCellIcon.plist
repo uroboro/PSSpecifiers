@@ -4,9 +4,10 @@
             PostNotification = "com.your.tweak/changed";
             cell = PSLinkListCell;
             defaults = "com.your.tweak";
-            id = PSLinkListCell;
-            key = kPSLinkListCell;
-            label = PSLinkListCell;
+            icon = "/Applications/Preferences.app/icon-table@2x.png";
+            id = PSLinkListCellIcon;
+            key = kPSLinkListCellIcon;
+            label = PSLinkListCellIcon;
             detail = PSListItemsController;
             shortTitles =             (
                 T1,

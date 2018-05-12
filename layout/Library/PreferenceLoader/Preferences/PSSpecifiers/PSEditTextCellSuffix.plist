@@ -4,9 +4,10 @@
             PostNotification = "com.your.tweak/changed";
             cell = PSEditTextCell;
             defaults = "com.your.tweak";
-            id = PSEditTextCell;
-            key = kPSEditTextCell;
-            label = PSEditTextCell;
+            id = PSEditTextCellSuffix;
+            key = kPSEditTextCellSuffix;
+            label = PSEditTextCellSuffix;
+            suffix = "-abc";
         }
     );
 }

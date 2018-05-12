@@ -2,20 +2,12 @@
     items =     (
                 {
             PostNotification = "com.your.tweak/changed";
-            cell = PSLinkListCell;
+            cell = PSSegmentCell;
             defaults = "com.your.tweak";
-            id = PSLinkListCell;
-            key = kPSLinkListCell;
-            label = PSLinkListCell;
-            detail = PSListItemsController;
-            shortTitles =             (
-                T1,
-                T2,
-                T3,
-                T4,
-                T5
-            );
-            staticTextMessage = "Hi, I'm a footer!";
+            icon = "/Applications/Preferences.app/icon-table@2x.png";
+            id = PSSegmentCellIcon;
+            key = kPSSegmentCellIcon;
+            label = PSSegmentCellIcon;
             validTitles =             (
                 Title1,
                 Title2,

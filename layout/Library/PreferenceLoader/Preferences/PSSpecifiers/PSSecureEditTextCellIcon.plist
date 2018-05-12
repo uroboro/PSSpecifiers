@@ -1,0 +1,13 @@
+{
+    items =     (
+                {
+            PostNotification = "com.your.tweak/changed";
+            cell = PSSecureEditTextCell;
+            defaults = "com.your.tweak";
+            icon = "/Applications/Preferences.app/icon-table@2x.png";
+            id = PSSecureEditTextCellIcon;
+            key = kPSSecureEditTextCellIcon;
+            label = PSSecureEditTextCellIcon;
+        }
+    );
+}

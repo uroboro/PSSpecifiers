@@ -19,11 +19,15 @@
         },
                 {
             cell = PSLinkCell;
-            label = PSButtonCell2;
+            label = PSButtonCellIcon;
         },
                 {
             cell = PSLinkCell;
-            label = PSButtonCell3;
+            label = PSButtonCellConfirmation;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSButtonCellDestructive;
         },
                 {
             cell = PSLinkCell;
@@ -31,7 +35,11 @@
         },
                 {
             cell = PSLinkCell;
-            label = PSEditTextCell2;
+            label = PSEditTextCellIcon;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSEditTextCellSuffix;
         },
                 {
             cell = PSLinkCell;
@@ -39,7 +47,15 @@
         },
                 {
             cell = PSLinkCell;
+            label = PSEditTextViewCellIcon;
+        },
+                {
+            cell = PSLinkCell;
             label = PSGiantCell;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSGiantCellIcon;
         },
                 {
             cell = PSLinkCell;
@@ -51,15 +67,15 @@
         },
                 {
             cell = PSLinkCell;
-            label = PSGroupCell2;
+            label = PSGroupCellLeft;
         },
                 {
             cell = PSLinkCell;
-            label = PSGroupCell3;
+            label = PSGroupCellCenter;
         },
                 {
             cell = PSLinkCell;
-            label = PSGroupCell4;
+            label = PSGroupCellRight;
         },
                 {
             cell = PSLinkCell;
@@ -67,7 +83,15 @@
         },
                 {
             cell = PSLinkCell;
+            label = PSLinkCellIcon;
+        },
+                {
+            cell = PSLinkCell;
             label = PSLinkListCell;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSLinkListCellIcon;
         },
                 {
             cell = PSLinkCell;
@@ -75,7 +99,15 @@
         },
                 {
             cell = PSLinkCell;
+            label = PSListItemCellIcon;
+        },
+                {
+            cell = PSLinkCell;
             label = PSSecureEditTextCell;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSSecureEditTextCellIcon;
         },
                 {
             cell = PSLinkCell;
@@ -83,19 +115,27 @@
         },
                 {
             cell = PSLinkCell;
+            label = PSSegmentCellIcon;
+        },
+                {
+            cell = PSLinkCell;
             label = PSSliderCell;
         },
                 {
             cell = PSLinkCell;
-            label = PSSliderCell2;
+            label = PSSliderCellIcon;
         },
                 {
             cell = PSLinkCell;
-            label = PSSliderCell3;
+            label = PSSliderCellShow;
         },
                 {
             cell = PSLinkCell;
-            label = PSSliderCell4;
+            label = PSSliderCellSegmented;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSSliderCellImages;
         },
                 {
             cell = PSLinkCell;
@@ -103,7 +143,15 @@
         },
                 {
             cell = PSLinkCell;
+            label = PSSpinnerCellIcon;
+        },
+                {
+            cell = PSLinkCell;
             label = PSStaticTextCell;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSStaticTextCellIcon;
         },
                 {
             cell = PSLinkCell;
@@ -111,15 +159,23 @@
         },
                 {
             cell = PSLinkCell;
-            label = PSSwitchCell2;
+            label = PSSwitchCellIcon;
         },
                 {
             cell = PSLinkCell;
-            label = PSSwitchCell3;
+            label = PSSwitchCellColor;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSSwitchCellLoading;
         },
                 {
             cell = PSLinkCell;
             label = PSTitleValueCell;
+        },
+                {
+            cell = PSLinkCell;
+            label = PSTitleValueCellIcon;
         }
     );
     title = "PSSpecifier Demo";

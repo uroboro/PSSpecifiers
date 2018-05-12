@@ -4,9 +4,10 @@
             PostNotification = "com.your.tweak/changed";
             cell = PSSwitchCell;
             defaults = "com.your.tweak";
-            id = PSSwitchCell;
-            key = kPSSwitchCell;
-            label = PSSwitchCell;
+            icon = "/Applications/Preferences.app/icon-table@2x.png";
+            id = PSSwitchCellIcon;
+            key = kPSSwitchCellIcon;
+            label = PSSwitchCellIcon;
         }
     );
 }

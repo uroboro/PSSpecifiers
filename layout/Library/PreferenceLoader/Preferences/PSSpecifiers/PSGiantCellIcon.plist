@@ -4,9 +4,10 @@
             PostNotification = "com.your.tweak/changed";
             cell = PSGiantCell;
             defaults = "com.your.tweak";
-            id = PSGiantCell;
-            key = kPSGiantCell;
-            label = PSGiantCell;
+            icon = "/Applications/Preferences.app/icon@2x~iphone.png";
+            id = PSGiantCellIcon;
+            key = kPSGiantCellIcon;
+            label = PSGiantCellIcon;
         }
     );
 }

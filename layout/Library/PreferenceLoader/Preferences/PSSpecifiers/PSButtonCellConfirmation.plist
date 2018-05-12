@@ -10,9 +10,9 @@
                 title = title;
             };
             defaults = "com.your.tweak";
-            id = PSButtonCell2;
-            key = kPSButtonCell2;
-            label = PSButtonCell2;
+            id = PSButtonCellConfirmation;
+            key = kPSButtonCellConfirmation;
+            label = PSButtonCellConfirmation;
         }
     );
 }

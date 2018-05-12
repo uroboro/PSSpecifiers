@@ -4,7 +4,6 @@
             PostNotification = "com.your.tweak/changed";
             cell = PSSegmentCell;
             defaults = "com.your.tweak";
-            icon = "/Applications/Preferences.app/icon-table@2x.png";
             id = PSSegmentCell;
             key = kPSSegmentCell;
             label = PSSegmentCell;

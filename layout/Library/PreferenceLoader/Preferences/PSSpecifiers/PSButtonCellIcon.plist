@@ -4,9 +4,10 @@
             PostNotification = "com.your.tweak/changed";
             cell = PSButtonCell;
             defaults = "com.your.tweak";
-            id = PSButtonCell;
-            key = kPSButtonCell;
-            label = PSButtonCell;
+            icon = "/Applications/Preferences.app/icon-table@2x.png";
+            id = PSButtonCellIcon;
+            key = kPSButtonCellIcon;
+            label = PSButtonCellIcon;
         }
     );
 }

@@ -4,9 +4,9 @@
             PostNotification = "com.your.tweak/changed";
             cell = PSSwitchCell;
             defaults = "com.your.tweak";
-            id = PSSwitchCell2;
-            key = kPSSwitchCell2;
-            label = PSSwitchCell2;
+            id = PSSwitchCellColor;
+            key = kPSSwitchCellColor;
+            label = PSSwitchCellColor;
             alternateColors = 1;
         }
     );
